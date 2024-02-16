@@ -1,8 +1,16 @@
-# React + Vite
+## Peticiones con el método fetch en ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### El proyecto "Peticiones con el método fetch en ReactJS" se enfoca en la integración de solicitudes HTTP usando fetch en aplicaciones ReactJS. Permite obtener y enviar datos de manera asíncrona, facilitando la interacción con servidores remotos para actualizar y mostrar contenido dinámico en las aplicaciones.
 
-Currently, two official plugins are available:
+### Resultado final
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/peticion-fetch-en-react.png)
+
+### Expresiones de Gratitud 🎁
+
+    Comenta a otros sobre este proyecto 📢
+    Invita una cerveza 🍺 o un café ☕
+    Paypal iamdeveloper86@gmail.com
+    Da las gracias públicamente 🤓.
+
+## No olvides SUSCRIBIRTE 👍
